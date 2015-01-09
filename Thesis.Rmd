@@ -12,9 +12,9 @@ output: html_document
 stuff
 
 ##Methods
-
-- get item1
-- get item2
+- get item 1
+- get item 2
+- get item 3
 
 1. do 1
 1. do 2
