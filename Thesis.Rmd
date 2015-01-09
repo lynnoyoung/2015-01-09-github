@@ -5,4 +5,14 @@ date: "Friday, January 09, 2015"
 output: html_document
 ---
 
-This is my thesis
+
+# Thesis
+
+##Intro
+stuff
+
+##Methods
+really cool stuff
+
+##Discussion
+things
