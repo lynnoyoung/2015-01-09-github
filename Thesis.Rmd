@@ -12,7 +12,12 @@ output: html_document
 stuff
 
 ##Methods
-really cool stuff
+
+- get item1
+- get item2
+- get item3
+1. do 1
+2. do 2
 
 ##Discussion
 things
