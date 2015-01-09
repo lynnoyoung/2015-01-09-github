@@ -1,0 +1,8 @@
+---
+title: "markdown"
+author: "zhyl"
+date: "Friday, January 09, 2015"
+output: html_document
+---
+
+This is my thesis
