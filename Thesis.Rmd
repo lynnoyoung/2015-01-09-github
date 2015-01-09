@@ -15,7 +15,6 @@ stuff
 
 - get item1
 - get item2
-- get item3
 
 1. do 1
 1. do 2
